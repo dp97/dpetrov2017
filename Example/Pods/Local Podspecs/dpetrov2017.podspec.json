@@ -1,0 +1,22 @@
+{
+  "name": "dpetrov2017",
+  "version": "0.1.0",
+  "summary": "A short description of dpetrov2017.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dp97/dpetrov2017",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dp97": "petrov.dumitru@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dp97/dpetrov2017.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "dpetrov2017/Classes/**/*"
+}

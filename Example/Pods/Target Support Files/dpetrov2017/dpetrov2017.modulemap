@@ -1,0 +1,6 @@
+framework module dpetrov2017 {
+  umbrella header "dpetrov2017-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - dpetrov2017 (0.1.0)
+
+DEPENDENCIES:
+  - dpetrov2017 (from `../`)
+
+EXTERNAL SOURCES:
+  dpetrov2017:
+    :path: ../
+
+SPEC CHECKSUMS:
+  dpetrov2017: 0011b03b3a285c8e7fd2fbd43dacace1fc7aeca4
+
+PODFILE CHECKSUM: 4433bc00ed17f9a006a9c7a105218c2669a09e3a
+
+COCOAPODS: 1.2.1
